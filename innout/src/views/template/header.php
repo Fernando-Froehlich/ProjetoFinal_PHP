@@ -14,9 +14,9 @@
     <header class="header">
         <div class="logo">
             <i class="icofont-travelling mr-2"></i>
+            <span class="font-weight-light">In </span>
             <span class="font-weight-bold mx-2">N'</span>
             <span class="font-weight-light">Out</span>
-            <span class="font-weight-light">In </span>
             <i class="icofont-runner-alt-1 ml-2"></i>
         </div>
         <div class="menu-toggle mx-3">
