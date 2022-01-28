@@ -59,7 +59,9 @@ function populateWorkingHours($userId, $initialDate, $regularRate, $extraRate, $
 
 }
 
-populateWorkingHours(1, date('Y-m-1'), 70, 20, 10);
+$lasMonth = strtotime('first day of last month');
+
+// populateWorkingHours(1, date('Y-m-1'), 70, 20, 10);
 
 
 echo 'Tudo certo';
